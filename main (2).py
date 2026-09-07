@@ -1,6 +1,6 @@
 #SELECTION STRUCTURE PRACTICE EXERCISES
 ##Description
-  Consists of Problems 1-4
+  #Consists of Problems 1-4
 
 #1.Even or Odd
 number = float(input("Please enter a number: "))
