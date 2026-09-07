@@ -1,4 +1,8 @@
-#Even or Odd
+#SELECTION STRUCTURE PRACTICE EXERCISES
+##Description
+  Consists of Problems 1-4
+
+#1.Even or Odd
 number = float(input("Please enter a number: "))
 
 if number % 2 == 0:
@@ -6,7 +10,7 @@ if number % 2 == 0:
 else:
   print("The number is odd")
 
-#Password Gatekeeper
+#2.Password Gatekeeper
 print("")
 
 word = input("Please enter password: ")
@@ -16,7 +20,7 @@ if len(word) >=8:
 else:
   print("Too short, I need 8 or more characters!!")
 
-#Movie ticket price
+#3.Movie ticket price
 print("") 
 
 age = int(input("Please enter your age: "))
@@ -28,7 +32,7 @@ elif age >= 13 and age <=64:
 else:
   print("Ticket price is P200")
 
-#Leap Year Checker
+#4.Leap Year Checker
 print("") 
 
 year = int(input("Please enter a year "))
